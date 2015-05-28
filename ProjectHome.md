@@ -1,0 +1,1 @@
+Antitheft software for Android Phones. Useful to recieve your stolen/lost phone. Can monitor sim card changes. Get the changed SIM-Telephone Number by SMS.
